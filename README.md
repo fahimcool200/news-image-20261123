@@ -6,6 +6,8 @@
 
 A program that writes a 1024x1024 front-page image summing up the world's news of Monday 23 November 2026 to /output/entry.png.
 
+v2 design (24 Nov 2026): same stories, prettier front page — TOP STORY tag, filled globe, small icons per story, panel shadows.
+
 ## Run it
 
 ```sh
